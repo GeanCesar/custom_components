@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressButton">
+        <attr name="progress_button_texto" format="string" />
+        <attr name="progress_button_icone" format="reference|integer" />
+        <attr name="progress_button_fundo" format="reference|color" />
+    </declare-styleable>
+</resources>
